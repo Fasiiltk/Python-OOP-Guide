@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1dlk9a-tsgDCZJTMc0NS2dpt28O3VURDa
  
 OOPS
-
+ 
 **“Object-Oriented Programming System”** or **“Object-Oriented Programming Structure.”**
 
 “OOPS” stands for “Object-Oriented Programming System” or “Object-Oriented Programming Structure.” It is a programming paradigm based on the concept of “objects,” which can contain data and code to manipulate that data.
