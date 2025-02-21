@@ -18,7 +18,6 @@ OOPS
 
 
 
-
 1.Object-oriented programming is the  problem-sloving approch and ued where computation ua done by using objects.
 
 
